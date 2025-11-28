@@ -1,0 +1,25 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "React + Vite project",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.9.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^4.2.2",
+    "@types/react": "^18.0.38",
+    "@types/react-dom": "^18.0.11",
+    "vite": "^7.2.4",
+    "eslint": "^9.39.1",
+    "@eslint/js": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24"
+  }
+}
